@@ -28,9 +28,6 @@
       </set>
     </option>
   </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
-  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/intervention/image" />
@@ -103,6 +100,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -136,22 +134,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585088208018</updated>
-      <workItem from="1585088210167" duration="671000" />
+      <workItem from="1585088210167" duration="919000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(prod): set shop">
+      <created>1585088907460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585088907460</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat(prod): set dop">
+      <created>1585088927358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585088927358</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(prod): set dop2">
+      <created>1585088992318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585088992318</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(prod): set dop3">
+      <created>1585089030821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585089030821</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(prod): set dop4">
+      <created>1585089116080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585089116080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="feat(prod): set shop" />
+    <MESSAGE value="feat(prod): set dop" />
+    <MESSAGE value="feat(prod): set dop2" />
+    <MESSAGE value="feat(prod): set dop3" />
+    <MESSAGE value="feat(prod): set dop4" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(prod): set dop4" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1585089030799">
+    <state x="0" y="23" width="833" height="777" key="CommitChangelistDialog2" timestamp="1585089115759">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1585089030799" />
-    <state x="295" y="176" key="Vcs.Push.Dialog.v2" timestamp="1585089059481">
+    <state x="0" y="23" width="833" height="777" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1585089115759" />
+    <state x="295" y="176" key="Vcs.Push.Dialog.v2" timestamp="1585089120675">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="295" y="176" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1585089059481" />
+    <state x="295" y="176" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1585089120675" />
     <state x="209" y="37" width="999" height="675" key="find.popup" timestamp="1585088770926">
       <screen x="0" y="23" width="1280" height="777" />
     </state>

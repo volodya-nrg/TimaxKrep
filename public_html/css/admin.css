@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*--------------------- tags ---------------------*/
+body{
+	background: #333333;
+}
+/*--------------------- ids ---------------------*/
+#admin_content_main{
+	background-color:white;
+	min-height:690px;
+}
+#product_attributes{
+	margin-top: 10px;
+}
+#block_update_price_for_category{
+}
+	#block_update_price_for_category select[name=method]{
+		margin-right:10px;
+		width:110px;	
+	}
+	#block_update_price_for_category input[name=percent]{
+		margin:0 10px;
+		width:50px;
+		text-align:center;
+	}
+	#block_update_price_for_category select[name=categories]{
+		margin:0 10px;
+	}
+/*--------------------- classes ---------------------*/
+.list_tree > li ul{
+	display: block;
+}

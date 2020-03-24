@@ -1,0 +1,1 @@
+<p class="alert alert-success flash-result-block">{{ $text or 'Данные сохранены' }}</p>
